@@ -1,0 +1,5 @@
+name: donate
+author: 10XuQ
+description: 赞助插件，用户发送/赞助时返回收款码
+version: 1.0.0
+repo_url: https://github.com/10XuQ/astrbot_plugin_donate
